@@ -1,3 +1,3 @@
-# h1-mod-server-config
+Download the zip from releases
 
-after download place server.cfg in your Call of duty Modern Warfare Remastered "h1-mod" /main folder 
+open the zip and both main folder and bat file go in your root dir of your game folder example c:/games/h1-mod "Call Of Duty Modern Warfare Remastered"
