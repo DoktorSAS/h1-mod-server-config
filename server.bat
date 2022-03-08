@@ -1,8 +1,8 @@
 @echo off
 ::Name of the server shown in the title of the cmd window. This will NOT bet shown ingame.
-set name=Frags Fun Land
+set name=H1-MOD Dedicated Server
 ::Port used by the server (default: 27016)
-set port=27017
+set port=27016
 ::Only change this when you don't want to keep the bat files in the game folder. MOST WON'T NEED TO EDIT THIS!
 set gamepath=%cd%
 
